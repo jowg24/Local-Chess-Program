@@ -1,0 +1,117 @@
+C:\Users\Peter Brown\source\repos\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.exe
+C:\Users\Peter Brown\source\repos\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.deps.json
+C:\Users\Peter Brown\source\repos\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.runtimeconfig.json
+C:\Users\Peter Brown\source\repos\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.dll
+C:\Users\Peter Brown\source\repos\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\Peter Brown\source\repos\Local Chess\UI\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\Peter Brown\source\repos\Local Chess\UI\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.AssemblyReference.cache
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.cache
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.lref
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.g.resources
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfoInputs.cache
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfo.cs
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CopyComplete
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.dll
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\refint\UserInterface.dll
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.genruntimeconfig.cache
+C:\Users\Peter Brown\source\repos\Local Chess\UI\obj\Debug\net6.0-windows\ref\UserInterface.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.exe
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.deps.json
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.runtimeconfig.json
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.AssemblyReference.cache
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.cache
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.lref
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.g.resources
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfoInputs.cache
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfo.cs
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CopyComplete
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\refint\UserInterface.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.genruntimeconfig.cache
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\ref\UserInterface.dll
+C:\Users\jowg2\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.exe
+C:\Users\jowg2\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.deps.json
+C:\Users\jowg2\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.runtimeconfig.json
+C:\Users\jowg2\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.dll
+C:\Users\jowg2\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\jowg2\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\jowg2\OneDrive\Local Chess\UI\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.AssemblyReference.cache
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.cache
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.lref
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.g.resources
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfoInputs.cache
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfo.cs
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CopyComplete
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.dll
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\refint\UserInterface.dll
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.genruntimeconfig.cache
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\ref\UserInterface.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\GameOverMenu.g.cs
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\GameOverMenu.baml
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PromotionMenu.g.cs
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PromotionMenu.baml
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\GameOverMenu.g.cs
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PromotionMenu.g.cs
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\App.baml
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\GameOverMenu.baml
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PromotionMenu.baml
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PauseMenu.g.cs
+C:\Users\Peter Brown\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PauseMenu.baml
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PauseMenu.g.cs
+C:\Users\jowg2\OneDrive\Local Chess\UI\obj\Debug\net6.0-windows\PauseMenu.baml
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.exe
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.deps.json
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.runtimeconfig.json
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\bin\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\GameOverMenu.g.cs
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\PauseMenu.g.cs
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\PromotionMenu.g.cs
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.cache
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface_MarkupCompile.lref
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\GameOverMenu.baml
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\PauseMenu.baml
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\PromotionMenu.baml
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.g.resources
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.AssemblyInfo.cs
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.csproj.CopyComplete
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\refint\UserInterface.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.pdb
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\UserInterface.genruntimeconfig.cache
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\UI\obj\Debug\net6.0-windows\ref\UserInterface.dll

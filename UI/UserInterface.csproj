@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Board Assets\BishopB.png" />
+    <None Remove="Board Assets\BishopW.png" />
+    <None Remove="Board Assets\Board.png" />
+    <None Remove="Board Assets\CursorB.cur" />
+    <None Remove="Board Assets\CursorW.cur" />
+    <None Remove="Board Assets\icon.ico" />
+    <None Remove="Board Assets\KingB.png" />
+    <None Remove="Board Assets\KingW.png" />
+    <None Remove="Board Assets\KnightB.png" />
+    <None Remove="Board Assets\KnightW.png" />
+    <None Remove="Board Assets\PawnB.png" />
+    <None Remove="Board Assets\PawnW.png" />
+    <None Remove="Board Assets\QueenB.png" />
+    <None Remove="Board Assets\QueenW.png" />
+    <None Remove="Board Assets\RookB.png" />
+    <None Remove="Board Assets\RookW.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Logic\Logic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Board Assets\BishopB.png" />
+    <Resource Include="Board Assets\BishopW.png" />
+    <Resource Include="Board Assets\Board.png" />
+    <Resource Include="Board Assets\CursorB.cur" />
+    <Resource Include="Board Assets\CursorW.cur" />
+    <Resource Include="Board Assets\icon.ico" />
+    <Resource Include="Board Assets\KingB.png" />
+    <Resource Include="Board Assets\KingW.png" />
+    <Resource Include="Board Assets\KnightB.png" />
+    <Resource Include="Board Assets\KnightW.png" />
+    <Resource Include="Board Assets\PawnB.png" />
+    <Resource Include="Board Assets\PawnW.png" />
+    <Resource Include="Board Assets\QueenB.png" />
+    <Resource Include="Board Assets\QueenW.png" />
+    <Resource Include="Board Assets\RookB.png" />
+    <Resource Include="Board Assets\RookW.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,44 @@
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\Peter Brown\source\repos\Local Chess\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\jowg2\OneDrive\Local Chess\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\jowg2\OneDrive\Local Chess\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\jowg2\OneDrive\Local Chess\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\jowg2\OneDrive\Local Chess\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\Peter Brown\OneDrive\Local Chess\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\Public\Documents\reWASD\Logs\Dump\Local Chess\Logic\obj\Debug\net6.0\ref\Logic.dll
